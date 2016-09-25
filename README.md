@@ -1,14 +1,12 @@
 # require-dir
 
-Nodejs 
+Require all modules in a directory
 
-require all modules in a folder
-
-not use module.parent to avoid module cache 
+Not use module.parent,to avoid module cache 
 
 获取一个目录内的所有模块
 
-不使用module.parent 避免模块缓存
+不使用module.parent, 避免模块缓存
 
 example
 

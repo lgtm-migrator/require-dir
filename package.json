@@ -1,10 +1,10 @@
 {
   "name": "require.d",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "require all module in a  directory",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
