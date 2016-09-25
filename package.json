@@ -1,0 +1,24 @@
+{
+  "name": "require-dir",
+  "version": "0.0.1",
+  "description": "require all module in a  directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soontao/require-dir.git"
+  },
+  "keywords": [
+    "require",
+    "all",
+    "module"
+  ],
+  "author": "suntao <mrls@live.cn>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Soontao/require-dir/issues"
+  },
+  "homepage": "https://github.com/Soontao/require-dir#readme"
+}
