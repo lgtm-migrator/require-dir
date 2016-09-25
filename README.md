@@ -4,11 +4,8 @@ Nodejs
 
 require all modules in a folder
 
-test
-│- f1.js                                                                                                                                                
-│- f2.js                                                                                                                                                
-└─ a                                                                                                                                                     
-     │- f3.js                      
+获取一个目录内的所有模块
+
 
 example
 
