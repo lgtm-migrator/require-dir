@@ -4,16 +4,19 @@ Nodejs
 
 require all modules in a folder
 
+not use module.parent to avoid module cache 
+
 获取一个目录内的所有模块
 
+不使用module.parent 避免模块缓存
 
 example
 
 ```js
 'use strict'
-const ra = require('./index.js')
+const rd= require('require.d')
 
-const test = ra(__dirname + '/test');
+const test = rd(__dirname + '/test');
 
 console.log(test)
 ```

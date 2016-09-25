@@ -1,5 +1,5 @@
 {
-  "name": "require-dir",
+  "name": "require.d",
   "version": "0.0.1",
   "description": "require all module in a  directory",
   "main": "index.js",
